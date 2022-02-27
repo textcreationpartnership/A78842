@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties last speech, and protestation, which hee made on Sunday. the fifth of this instant February, in the Cathedrall church of Oxford, the Lords and the cheife of the univorsity [sic] being present, before the receiving of the sacrament, for the renouncing of popery. With the pious joy of a true heart enlarged on the contemplation, and assurance of so great a happinesse to the great comfort of all His Majestye; subjects, which will live and dye in the Protestant religion and abhorre popery.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78842</idno>
+            <idno type="STC">Wing C2379</idno>
+            <idno type="STC">Thomason E89_32</idno>
+            <idno type="STC">ESTC R21149</idno>
+            <idno type="EEBO-CITATION">99870212</idno>
+            <idno type="PROQUEST">99870212</idno>
+            <idno type="VID">122604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122604)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties last speech, and protestation, which hee made on Sunday. the fifth of this instant February, in the Cathedrall church of Oxford, the Lords and the cheife of the univorsity [sic] being present, before the receiving of the sacrament, for the renouncing of popery. With the pious joy of a true heart enlarged on the contemplation, and assurance of so great a happinesse to the great comfort of all His Majestye; subjects, which will live and dye in the Protestant religion and abhorre popery.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 3, 7-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Oxford Printed for W. Web, and since reprinted at London for R. Sutton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "febry 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:122604:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>HIS MAIESTIES Laſt Speech, and Proteſtation, which hee made on Sunday. the fifth of this inſtant February, in the Cathedrall Church of <hi>Oxford,</hi> the Lords and the cheife of the Vnivor<g ref="char:EOLhyphen"/>ſity being preſent, before the receiving of the Sacrament, for the re<g ref="char:EOLhyphen"/>nouncing of Popery.</p>
+            <p>
+               <hi>WITH</hi> THE PIOVS IOY OF A TRVE HEART enlarged on the contemplation, and aſſurance of ſo great a happineſſe, to the great comfort of all His Majeſtye; ſubjects, which will liue and dye in the Proteſtant Religion and abhorre Popery.</p>
+            <p>
+               <date>
+                  <add>1642</add>
+               </date>Oxford Printed for W. Web, and ſince re<g ref="char:EOLhyphen"/>printed at London for R. Sutton.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:122604:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:122604:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>HIS MAIESTIES Speech and Protestation on Sunday <date>the fifth of <hi>February,</hi>
+               </date> before the Lords and Vniverſitie of <hi>Oxford,</hi> for the renoun<g ref="char:EOLhyphen"/>cing of <hi>Poperie.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is not that Bleſſing which Man on Earth can be capable of, but it may be ob<g ref="char:EOLhyphen"/>tained by Prayer. Our many ſinnes had tempted the Almighties Wrath, and pull'd downe Iudgements on our Heads; our many Prayers have woed againe the Almighties Mercy, and pro<g ref="char:EOLhyphen"/>cured new Bleſſings to deſcend upon us. We have felt the edge of the Sword, and languiſhed under the Iron hand of Warre: we now againe begin to heare the ſounds of Ioy, and to behold the ſmooth Brow of Peace to ſmile upon us. This is the worke of God, and the event of the Prayers of holy men; and as it was procured by the Exerciſe of Re<g ref="char:EOLhyphen"/>ligion, ſo Religion begins to flouriſh, and to be confirmed by it, and feares no more the thick Clouds of Superſtition and Poperie ſhall ſhadow and over-ſpread this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>On the fifth of this preſent Moneth, his Maieſtie being reſident at <hi>Oxford,</hi> and attended with a brave Traine of the Nobilitie, heard that morning a Sermon in the Cathedrall Church: which being ended, and the holy Sacrament of the <hi>Euchariſt</hi> being that day to be celebrated, his Maieſtie
+<pb n="2" facs="tcp:122604:3"/>
+               <!-- PDF PAGE 69 -->beholding a great multitude or his Nobilitie round about him, ſpake thus unto them.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My Lords;</salute>
+                        </opener>
+                        <p>Although I am not bound to give account to any of my thoughts but unto God alone, yet for your better ſa<g ref="char:EOLhyphen"/>tisfaction, and that my people might underſtand how much I have ſuffered by prejudicate rumour and opinion; I this day proteſt before the face of Almightie God, and before you all, that in my heart I am farre from Poperie, and ſo by Gods grace will continue vnto the end of my life; neither did my Queene ever to my knowledge ſo much as perſwade me once to alter my Religion.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>When he had ſpoke this, with great gratulation and ioy of his Nobilitie, he received the holy Sacrament.</p>
+            <p>And this aſſurance of his Maieſty hath bin ſince ſeconded in hi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anſwer to the Petition of both his Houſes of Par<g ref="char:EOLhyphen"/>liament; wherein he aſſureth them of his pious reſolution to maintaine the true Proteſtant Religion, and for the abo<g ref="char:EOLhyphen"/>liſhing of Superſtition and Popery: which hath turned our weeping into laughter, and our ſorrowes into ſong<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Ioy. God give us the grace, to give his glorious Name the praiſe, to be gratefull unto him, to reioyce in him with true thank fulneſſe, when ſuch a Bleſſing is imparted, and now our ſ<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>es are comf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rted. To this purpoſe the Story of the <hi>Iewes,</hi> being deli<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered from all their feares, is very remark<g ref="char:EOLhyphen"/>ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. The Text ſaith, That <hi>they reſted the ſame day, and made <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of feaſting, and gladneſſe, a good day, and ſent portions and preſents one to another:</hi> But wherefore was all this? for ſaving their lives, and prevailing againſt their enemies.</p>
+            <p>But, O thou God of Heaven! <hi>That rideſt upon the wings of the Wind, and holdeſt the reines of the Kingdomes of the World in thy hand, to let looſe or reſtraine at thy pleaſure:</hi> Thou knoweſt that we have more cauſes to reioyce, and be glad, then the <hi>Iewes</hi> in their <hi>Purim<g ref="char:punc">▪</g>
+               </hi> for if we may compare the
+<pb n="3" facs="tcp:122604:3"/>
+               <!-- PDF PAGE 69 -->leſſe with the greater, they had but the preſervation of their bodies, &amp; a flight triumph againſt their temporal enemies; we are in the way to ſave our ſoules, and put our ſpirituall adverſaries to flight, the <hi>Fleſh,</hi> the <hi>World,</hi> and the <hi>Devill.</hi>
+            </p>
+            <p>What, is Papiſtry to be ſuppreſſed, the Prieſts and Ieſuits to be baniſhed, and the Goſpel of Ieſus Chriſt to flouriſh? My ſoule leapes for ioy, and <hi>my heart is inditing a good mat<g ref="char:EOLhyphen"/>ter, I ſpeake of the things which I have made touching the King: My tongue is the Pen of a readie Writer.</hi> O bleſſed be God for this alteration.</p>
+            <p>Doth not <hi>Ieremy</hi> tell us, that <hi>in Ramah there was a voyce heard, lamentation and weeping and great mourning, Rachel weeping for her children, and would not be comforted, becauſe they were not.</hi> Did not all <hi>England</hi> wring their hands for ſorrow, and begin to mourne, and to be affrighted, when they ſaw the Papiſts ſo arrogantly miſchievous, to inſult in every Towne and Shire, and mock us to our faces? To bring up their Armies, and defie our Religion, and threaten utterly to demoliſh it, as if <hi>Sandolet</hi> and <hi>Tabiah</hi> were come againe to deride the <hi>Iewes,</hi> when <hi>Nehemiah</hi> did re-edifie the Temple. And hath not God put it into the Kings heart, to damme up this inundation, and to keepe the raging Sea within its bounds, that it ſhould not overflow the lower and more fruitfull grounds?</p>
+            <p>Marke but the progreſſion of this Buſineſſe: How have the Papiſts behaved themſelves within theſe two yeres, and eſpecially ſince his Maieſtie hath abſented himſelfe from his Parliament? How inſolently have they brag'd of their Forces? How illegally have they muſtered and drawn them together? And being now under the command of the Earle of <hi>Newcaſtle,</hi> how impudertly have they threatned the overthrow of us all, eſpecially of our late flouriſhing and renowned Citie of <hi>London.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:122604:4"/>
+               <!-- PDF PAGE 70 -->
+But was this all? No, no, the ſeverall Shires of <hi>England,</hi> worſe by farre then the <hi>Iewes,</hi> who poyſoned the Springs of Sweet Water, in theſe dayes had and ſtill have malici<g ref="char:EOLhyphen"/>ous Inſtruments to corrupt the Youth of the Countrey; and the Prieſts, Ieſuites, Fryers have run from Houſe to Houſe, and made them all amazed with crying out, <hi>Great is Diana of the Epheſians.</hi>
+            </p>
+            <p>The Court at <hi>Oxford,</hi> and the frequent Viſitations of our Malignants in <hi>London,</hi> have their Aſſemblies mingled with a number of audacious and peremptorie <hi>Romaniſts,</hi> who not onely branded us for luke-warmeneſſe, and un<g ref="char:EOLhyphen"/>iuſtifiable Actions, but boaſted in their Diſputations that they had put the true and learned Miniſters and Ser<g ref="char:EOLhyphen"/>vants of God to ſilence, as if <hi>Sidkiah</hi> ſhould ſtrike <hi>Ma<g ref="char:EOLhyphen"/>chaiah</hi> on the face, and peremptorily aske him, When the Spirit of God departed from him, to be infuſed in ſuch an Vnderling.</p>
+            <p>The Court had not onely every Corner, but publique Walkes filled with Papiſts and Hiſpaniolized Tempori<g ref="char:EOLhyphen"/>zers: and what did they, but appeare in ſeverall diſguiſed formes, and their corrupt hearts taught their tongues to vent forth Blaſphemies and notorious Abuſes? For as you reade how <hi>Ieremy</hi> was taken by his enemies, and brought before the Princes and Prieſts, for weakening the hands of the Men of Warre, and daunted their hearts that wiſhed well to the Peace of <hi>Sion;</hi> ſo played theſe im<g ref="char:EOLhyphen"/>poſturing Spirits, charming all men with ſuch Subtleties, that they would beleeve nothing true, but what proceeded from themſelves.</p>
+            <p>Moſt infinite i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the difference betweene the government of the Proteſtant and Papiſt Churches; the Papiſts com<g ref="char:EOLhyphen"/>mitting blaſphemous Idolatry, derogating from the Ho<g ref="char:EOLhyphen"/>nour of God, attributing it to the adoration of Creatures;
+<pb n="7" facs="tcp:122604:4"/>
+               <!-- PDF PAGE 70 -->they diſſemble with God and their own ſoules, and all that deale with them, they allow of murther and monſtrous impiety, and in a word are poyſoned with the dregs of abo<g ref="char:EOLhyphen"/>mination wherewith the whore of Babylon hath filled her cup, when the true proteſtant and zealous Chriſtian allow<g ref="char:EOLhyphen"/>eth God the preheminence of all adoration, will by no meanes blaſpheme with idolatrous<g ref="char:punc">▪</g> Exorciſmes deteſteth whoredome and all inceſtuous leproſie, deſieth the partici<g ref="char:EOLhyphen"/>pation of Gods glory to murther ſimply and plainly con<g ref="char:EOLhyphen"/>triveth his affairs, and keepeth his word though it be to his own hinderance intermeddles not with matters of State, except he be called to places of Eminencie; and dares not abuſe the Maieſtie of Princes by interiecting a iealouſie and ſuſpicion betweene the Prince and the Subiect. And is not this a great alteration? and cauſe enough to induce us to thanke God, and acknowledge his mercy and kinde<g ref="char:EOLhyphen"/>neſſe, that our King and Parliament would go and buy eye<g ref="char:EOLhyphen"/>ſalve without money perſpicuouſly to looke into the enor<g ref="char:EOLhyphen"/>mities of the Church and Common wealth, and not onely with <hi>Nehemias</hi> to abridge the extreamity of uſury to com<g ref="char:EOLhyphen"/>pell a relaxation of debts and oppreſſion: to keepe and ſan<g ref="char:EOLhyphen"/>ctifie the Sabbath, to put away their Idolatrous wives, but alſo will not ſuffer the <hi>Ammonites</hi> and <hi>Moabites</hi> to come into Gods temple but enforce them to baniſhment out of <hi>Jeruſalem,</hi> and thus (thanks be to God) our great <hi>Nehemiah</hi> the King hath bin pleaſed now to expreſſe Himſelf againſt the Papiſts, He not onely thinkes them as pricks and thorns in the ſides of good Chriſtians; but He findes them (for all their pretences of aſſiſting Him) as noyſome and infe<g ref="char:EOLhyphen"/>ctious weedes in the Common-Wealth, to eate up and choak the ſweete flowers and the ſpring-graſſe.</p>
+            <p>Shall ſuch a man as I fly (ſaith <hi>Nehemiah?</hi>) And ſhall ſuch a King as I (ſaith our Soveraigne) Who hath beene
+<pb n="8" facs="tcp:122604:5"/>
+               <!-- PDF PAGE 71 -->trayned up from my infancie to denie Popery now ſuffer my Kingdome of great <hi>Brittaine</hi> the Nurſery of zealous Profeſſors, the Mirrour of Puritie and Piety to be defiled and contaminated with the poiſon of ſuperſtition?</p>
+            <p>Now I have recollected my ſelfe, ſhall I give way to rotten and filthy Policie to eate up the heart of true Reli<g ref="char:EOLhyphen"/>on, or ſuffer private ends to thicken themſelves like ſome obſcure and dangerous cloud to ſtand as an interpoſition betweene the ſunny ſplendor of Gods Word, and the faire progreſſe of government? No, no, I will now be my ſelfe, and therefore if either the Pope or Sectary derides mee with <hi>Michol</hi> for dancing before the Ark, and bringing it into Gods houſe I will anſwer with <hi>David,</hi> I will yet be<g ref="char:EOLhyphen"/>come more vile and zealous for the Lord, and as he told his wife that therefore God had taken the Kingdom from his father and inveſted him with the Diadem of it, ſo may now King <hi>Charles</hi> anſwer all Malignants, that therefore God will make Him mighty in His Provinces in deſpight of Malignant oppoſition: And Great <hi>Brittaize</hi> ſhall not be able onely to ſtand firme, but like an impregnable rocke in all honour, riche<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and proſperity, and of ſufficiencie to protect diſtreſſed neighbours, and recover unfortunate and ſurrepted Province.</p>
+            <p>Therfore away ye Prieſts &amp; Ieſui es, and let us hear no more of your daring impoſtures, and that you will yet remaine Papiſts and with the adder ſtop your ears though the charmer charmeth never ſo wifely, let us ſee the backs of our adverſaries, and th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> baniſhment of thoſe that hate us that we may ſee our honeſt neighbours ſub<g ref="char:EOLhyphen"/>levated with care &amp; diligence, the whole Iland flouriſhing with proſperity and confidence the poor relieved the trade reſtored, the City repayred, the Merchant countenanced<g ref="char:punc">▪</g> the true ſouldier hono<g ref="char:EOLhyphen"/>red, the clergy man beloved, the well-deſerving reverenced, the weak ſupported<g ref="char:punc">▪</g> the obſtinate puniſhed the offendor, through frail<g ref="char:EOLhyphen"/>ty remitted, and all juſt actions practiſed to the glory of God, and the comfort of our owne ſoules.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="8" facs="tcp:122604:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
